@@ -1,0 +1,6 @@
+E:\Orenda\Projeler\11-NKatmanMimari\NKatmanliMimari\EntityLayer\bin\Debug\EntityLayer.dll
+E:\Orenda\Projeler\11-NKatmanMimari\NKatmanliMimari\EntityLayer\bin\Debug\EntityLayer.pdb
+E:\Orenda\Projeler\11-NKatmanMimari\NKatmanliMimari\EntityLayer\obj\Debug\EntityLayer.csproj.AssemblyReference.cache
+E:\Orenda\Projeler\11-NKatmanMimari\NKatmanliMimari\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+E:\Orenda\Projeler\11-NKatmanMimari\NKatmanliMimari\EntityLayer\obj\Debug\EntityLayer.dll
+E:\Orenda\Projeler\11-NKatmanMimari\NKatmanliMimari\EntityLayer\obj\Debug\EntityLayer.pdb

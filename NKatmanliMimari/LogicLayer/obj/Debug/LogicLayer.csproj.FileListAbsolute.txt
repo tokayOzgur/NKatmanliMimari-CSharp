@@ -1,0 +1,11 @@
+E:\Orenda\Projeler\11-NKatmanMimari\NKatmanliMimari\LogicLayer\bin\Debug\LogicLayer.dll
+E:\Orenda\Projeler\11-NKatmanMimari\NKatmanliMimari\LogicLayer\bin\Debug\LogicLayer.pdb
+E:\Orenda\Projeler\11-NKatmanMimari\NKatmanliMimari\LogicLayer\bin\Debug\DataAccessLayer.dll
+E:\Orenda\Projeler\11-NKatmanMimari\NKatmanliMimari\LogicLayer\bin\Debug\EntityLayer.dll
+E:\Orenda\Projeler\11-NKatmanMimari\NKatmanliMimari\LogicLayer\bin\Debug\DataAccessLayer.pdb
+E:\Orenda\Projeler\11-NKatmanMimari\NKatmanliMimari\LogicLayer\bin\Debug\EntityLayer.pdb
+E:\Orenda\Projeler\11-NKatmanMimari\NKatmanliMimari\LogicLayer\obj\Debug\LogicLayer.csproj.AssemblyReference.cache
+E:\Orenda\Projeler\11-NKatmanMimari\NKatmanliMimari\LogicLayer\obj\Debug\LogicLayer.csproj.CoreCompileInputs.cache
+E:\Orenda\Projeler\11-NKatmanMimari\NKatmanliMimari\LogicLayer\obj\Debug\LogicLayer.csproj.CopyComplete
+E:\Orenda\Projeler\11-NKatmanMimari\NKatmanliMimari\LogicLayer\obj\Debug\LogicLayer.dll
+E:\Orenda\Projeler\11-NKatmanMimari\NKatmanliMimari\LogicLayer\obj\Debug\LogicLayer.pdb

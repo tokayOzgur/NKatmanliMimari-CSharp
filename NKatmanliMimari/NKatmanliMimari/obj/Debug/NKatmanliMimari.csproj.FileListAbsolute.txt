@@ -1,0 +1,17 @@
+E:\Orenda\Projeler\11-NKatmanMimari\NKatmanliMimari\NKatmanliMimari\bin\Debug\NKatmanliMimari.exe.config
+E:\Orenda\Projeler\11-NKatmanMimari\NKatmanliMimari\NKatmanliMimari\bin\Debug\NKatmanliMimari.exe
+E:\Orenda\Projeler\11-NKatmanMimari\NKatmanliMimari\NKatmanliMimari\bin\Debug\NKatmanliMimari.pdb
+E:\Orenda\Projeler\11-NKatmanMimari\NKatmanliMimari\NKatmanliMimari\bin\Debug\DataAccessLayer.dll
+E:\Orenda\Projeler\11-NKatmanMimari\NKatmanliMimari\NKatmanliMimari\bin\Debug\EntityLayer.dll
+E:\Orenda\Projeler\11-NKatmanMimari\NKatmanliMimari\NKatmanliMimari\bin\Debug\LogicLayer.dll
+E:\Orenda\Projeler\11-NKatmanMimari\NKatmanliMimari\NKatmanliMimari\bin\Debug\DataAccessLayer.pdb
+E:\Orenda\Projeler\11-NKatmanMimari\NKatmanliMimari\NKatmanliMimari\bin\Debug\EntityLayer.pdb
+E:\Orenda\Projeler\11-NKatmanMimari\NKatmanliMimari\NKatmanliMimari\bin\Debug\LogicLayer.pdb
+E:\Orenda\Projeler\11-NKatmanMimari\NKatmanliMimari\NKatmanliMimari\obj\Debug\NKatmanliMimari.csproj.AssemblyReference.cache
+E:\Orenda\Projeler\11-NKatmanMimari\NKatmanliMimari\NKatmanliMimari\obj\Debug\NKatmanliMimari.Form1.resources
+E:\Orenda\Projeler\11-NKatmanMimari\NKatmanliMimari\NKatmanliMimari\obj\Debug\NKatmanliMimari.Properties.Resources.resources
+E:\Orenda\Projeler\11-NKatmanMimari\NKatmanliMimari\NKatmanliMimari\obj\Debug\NKatmanliMimari.csproj.GenerateResource.cache
+E:\Orenda\Projeler\11-NKatmanMimari\NKatmanliMimari\NKatmanliMimari\obj\Debug\NKatmanliMimari.csproj.CoreCompileInputs.cache
+E:\Orenda\Projeler\11-NKatmanMimari\NKatmanliMimari\NKatmanliMimari\obj\Debug\NKatmanliMimari.csproj.CopyComplete
+E:\Orenda\Projeler\11-NKatmanMimari\NKatmanliMimari\NKatmanliMimari\obj\Debug\NKatmanliMimari.exe
+E:\Orenda\Projeler\11-NKatmanMimari\NKatmanliMimari\NKatmanliMimari\obj\Debug\NKatmanliMimari.pdb
